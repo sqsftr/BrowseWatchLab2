@@ -34,3 +34,11 @@
 {"timestamp": "2025-06-02 17:39:51", "latitude": "1.1245213", "longitude": "104.0502299", "accuracy": "26.481", "maps_link": "https://www.google.com/maps?q=1.1245213,104.0502299"}
 [2025-06-02 17:44:08] 1.1245459,104.0502568 (Akurasi: 24.125m) => https://www.google.com/maps?q=1.1245459,104.0502568
 {"timestamp": "2025-06-02 17:44:08", "latitude": "1.1245459", "longitude": "104.0502568", "accuracy": "24.125", "maps_link": "https://www.google.com/maps?q=1.1245459,104.0502568"}
+[2025-06-16 12:57:39] 1.1133827539479317,104.08926650466937 (Akurasi: 15.668343045619364m) => https://www.google.com/maps?q=1.1133827539479317,104.08926650466937
+{"timestamp": "2025-06-16 12:57:39", "latitude": "1.1133827539479317", "longitude": "104.08926650466937", "accuracy": "15.668343045619364", "maps_link": "https://www.google.com/maps?q=1.1133827539479317,104.08926650466937"}
+[2025-06-16 13:05:11] 1.1104782,104.0885283 (Akurasi: 2269.7438601575313m) => https://www.google.com/maps?q=1.1104782,104.0885283
+{"timestamp": "2025-06-16 13:05:11", "latitude": "1.1104782", "longitude": "104.0885283", "accuracy": "2269.7438601575313", "maps_link": "https://www.google.com/maps?q=1.1104782,104.0885283"}
+[2025-06-16 13:05:37] 1.1134191,104.0892481 (Akurasi: 13.561m) => https://www.google.com/maps?q=1.1134191,104.0892481
+[2025-06-16 13:05:49] 1.113425,104.0892862 (Akurasi: 13.47700023651123m) => https://www.google.com/maps?q=1.113425,104.0892862
+{"timestamp": "2025-06-16 13:05:37", "latitude": "1.1134191", "longitude": "104.0892481", "accuracy": "13.561", "maps_link": "https://www.google.com/maps?q=1.1134191,104.0892481"}
+{"timestamp": "2025-06-16 13:05:49", "latitude": "1.113425", "longitude": "104.0892862", "accuracy": "13.47700023651123", "maps_link": "https://www.google.com/maps?q=1.113425,104.0892862"}
